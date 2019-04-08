@@ -7,7 +7,6 @@
     - [Code](https://github.com/TomSssM/nodejs-lecture/tree/master/node-js-and-npm-basics)
     - Plan:
       - Multithread vs SingleThread (( one thread === one callstack === one thing at a time ))
-      - Download [this video](https://youtu.be/8aGhZQkoFbQ)
       - Working with Modules ( edge cases )
       - An Example of Sync vs Async
       - the syntax of the three standard built in modules
