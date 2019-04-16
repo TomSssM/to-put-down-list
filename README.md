@@ -4,7 +4,9 @@
 - CoreJS CodeJam
   - [Local](./codejam-corejs)
   - [Fork](https://github.com/TomSssM/js-assignments)
-- [Last CodeWars Kata](http://www.codewars.com/kata/functional-sql)
+- CodeWars Kata
+  - [Matrix Multiplication](https://www.codewars.com/kata/matrix-multiplier)
+  - [Last CodeWars Kata](http://www.codewars.com/kata/functional-sql)
 - Incomplete Hardcores
   - [Smart Calculator](https://github.com/TomSssM/smart-calculator)
   - [Sorter](https://github.com/TomSssM/sorter)
