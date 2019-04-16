@@ -1,4 +1,16 @@
-# Things to Put Down
+# The Stub
+
+## Tasks
+- CoreJS CodeJam
+  - [Local](./codejam-corejs)
+  - [Fork](https://github.com/TomSssM/js-assignments)
+- [Last CodeWars Kata](http://www.codewars.com/kata/functional-sql)
+- Incomplete Hardcores
+  - [Smart Calculator](https://github.com/TomSssM/smart-calculator)
+  - [Sorter](https://github.com/TomSssM/sorter)
+  - [Longest Consequtive Sequence](https://github.com/TomSssM/longest-consecutive-sequence)
+
+## Things to Put Down
 - Node.js NPM basics
   - [Mosh](https://youtu.be/TlB_eWDSMt4)
   - This Year's Introduction Lecture
