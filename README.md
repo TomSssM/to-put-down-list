@@ -1,9 +1,7 @@
 # The Stub
 
 ## Tasks
-- CoreJS CodeJam
-  - [Local](./codejam-corejs)
-  - [Fork](https://github.com/TomSssM/js-assignments)
+- CoreJS CodeJam: [Local](./codejam-corejs) or [Fork](https://github.com/TomSssM/js-assignments)
 - CodeWars Kata
   - [Matrix Multiplication](https://www.codewars.com/kata/matrix-multiplier)
   - [Last CodeWars Kata](http://www.codewars.com/kata/functional-sql)
