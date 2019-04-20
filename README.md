@@ -27,4 +27,8 @@
       - Maybe create a separate Node.js PDF and dub it as smth that gives an overview to get the concept 
       behind the documentation and the snippets plus if any intricacies make sense to be added as `pdf` put 
       them into the sort of appendix :)
-- Next
+- Game Dev Promises Callbacks Lecture
+  - Tutorial Stub
+    - Storing Data in the browser
+    - Generators
+    - Modules
