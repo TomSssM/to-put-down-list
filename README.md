@@ -12,10 +12,7 @@
 
 ## Things to Put Down
 - Node.js NPM basics
-  - This Year's Introduction Lecture
-    - the Point of npm, npm scripts
-    - the syntax of the two standard built in modules: [here](https://github.com/TomSssM/nodejs-lecture/tree/master/node-js-and-npm-basics)
-    - [Mosh](https://youtu.be/TlB_eWDSMt4)
+  - [Mosh](https://youtu.be/TlB_eWDSMt4)
 - Game Dev Promises Callbacks Lecture
   - Tutorial Stub
     - Storing Data in the browser
