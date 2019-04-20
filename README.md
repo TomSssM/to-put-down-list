@@ -18,8 +18,6 @@
     - [Slides](https://slides.com/nikitarudy/deck-5#/)
     - [Code](https://github.com/TomSssM/nodejs-lecture/tree/master/node-js-and-npm-basics)
     - Plan:
-      - Working with Modules ( edge cases )
-      - An Example of Sync vs Async
       - the syntax of the three standard built in modules
       - the Point of npm, npm scripts
 - Game Dev Promises Callbacks Lecture
