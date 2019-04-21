@@ -15,6 +15,7 @@
   - [Mosh](https://youtu.be/TlB_eWDSMt4)
 - Game Dev Promises Callbacks Lecture
   - Tutorial Stub
+    - AJAX & COMET ( original from 4th )
     - Storing Data in the browser
     - Generators
     - Modules
