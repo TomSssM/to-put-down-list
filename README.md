@@ -1,6 +1,7 @@
 # The Stub
 
 ## Tasks
+- [Promises Task](./interview-case.js)
 - CoreJS CodeJam: [Local](./codejam-corejs) or [Fork](https://github.com/TomSssM/js-assignments)
 - CodeWars Kata
   - [Matrix Multiplication](https://www.codewars.com/kata/matrix-multiplier)
@@ -13,5 +14,3 @@
 ## Things to Put Down
 - Node.js NPM basics
   - [Mosh](https://youtu.be/TlB_eWDSMt4)
-- Game Dev Promises Callbacks Lecture
-  - [Promises Task](./interview-case.js)
