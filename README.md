@@ -1,7 +1,6 @@
 # The Stub
 
 ## Tasks
-- [Promises Task](./interview-case.js)
 - CoreJS CodeJam: [Local](./codejam-corejs) or [Fork](https://github.com/TomSssM/js-assignments)
 - CodeWars Kata
   - [Matrix Multiplication](https://www.codewars.com/kata/matrix-multiplier)
