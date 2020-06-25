@@ -2,7 +2,7 @@
 
 ## Tasks
 - Incomplete Hardcores
-  - [Smart Calculator](https://github.com/TomSssM/smart-calculator)
+  - [Smart Calculator](https://github.com/TomSssM/smart-calculator) ✅
   - [Sorter](https://github.com/TomSssM/sorter)
   - [Longest Consequtive Sequence](https://github.com/TomSssM/longest-consecutive-sequence)
 - CodeWars Kata
