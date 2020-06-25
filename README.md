@@ -7,6 +7,7 @@
   - [Longest Consequtive Sequence](https://github.com/TomSssM/longest-consecutive-sequence) ✅
   - Add a Stack Solution to the Brackets Dilemma
   - Add the turtle solution to the circled linked list task
+  - [Some weird kata](https://github.com/yankouskia/you-are-awesome/blob/master/test.js)
 - CodeWars Kata
   - [Matrix Multiplication](https://www.codewars.com/kata/matrix-multiplier)
   - [Last CodeWars Kata](http://www.codewars.com/kata/functional-sql)
